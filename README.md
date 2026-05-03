@@ -2,7 +2,7 @@
 
 - `demo_v1.py` — Tool Use
 - `demo_v2.py` — Reflection 추가
-- `.env.example` — API 키 설정
+- `.env` — API 키 설정
 
 ## ⚙️ 실행 준비
 
